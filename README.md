@@ -1,6 +1,6 @@
 # michael-needs-a-wohnung
 
-An AI-powered apartment hunting agent for the Berlin rental market. It scrapes ImmobilienScout24, Kleinanzeigen, Immowelt, WG-Gesucht, and InBerlinWohnen (Berlin public housing), analyzes listings against your criteria, and reaches out to landlords with personalized German-language inquiries on your behalf.
+An apartment hunting agent for the Berlin rental market. It scrapes ImmobilienScout24, Kleinanzeigen, Immowelt, WG-Gesucht, and InBerlinWohnen (Berlin public housing), analyzes listings against your criteria, and reaches out to landlords with personalized German-language inquiries on your behalf.
 
 ## What It Does
 
